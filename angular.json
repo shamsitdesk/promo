@@ -21,6 +21,8 @@
                 "input": "public"
               }
             ],
+            "allowedCommonJsDependencies": [
+            "jsbarcode"],
             "styles": [
               "src/styles.css"
             ],
